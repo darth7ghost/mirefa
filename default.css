@@ -182,11 +182,15 @@ header{
     display: flex;
     justify-content: left;
     align-content: center;
-    width: 625px;
+    width: 500px;
     border-radius: 5px;
     margin-bottom: 10px;
     padding-left: 15px;
     background-color: #DEB6AB;
+}
+
+#warn p{
+    font-size: 16px;  
 }
 
 .location{
@@ -304,7 +308,7 @@ footer{
     }
 
     #warn{
-        width: 310px;
+        width: 265px;
     }
 
     #warn p{
